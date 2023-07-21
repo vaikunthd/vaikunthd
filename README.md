@@ -43,8 +43,12 @@ I am pursuing Master's in Data Science at San Francisco State University. I comp
 
 ## 📫 Connect with me
 
-|<a href="www.linkedin.com/in/vaikunth-desai"><img align="center" alt="Vaikunth Desai's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>|<a href="mailto:vdclassifier@gmail.com"><img align="center" alt="Vaikunth Desai's Gmail" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/></a>|<a href="discordapp.com/users/vudesai#6786"><img align="center" alt="Vaikunth Desai's Discord" src="https://img.icons8.com/bubbles/50/000000/discord.png" /></a>|
-|:---:|:---:|:---:|
+
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vaikunth-desai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaikunth-desai/" height="30" width="30" /></a>
+<a href="mailto:vdclassifier@gmail.com"><img align="center" alt="Vaikunth Desai's Gmail" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/></a>
+<a href="discordapp.com/users/vudesai#6786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/vudesai#6786" height="40" width="40" /></a>
+</p>
 
 
 
