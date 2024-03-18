@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there, I'm Vaikunth Desai 👋
 
-I am pursuing Master's in Data Science at San Francisco State University. I completed my Bachelor's from Gujarat Technological University. My passion lies in pursuing a career as a Data Scientist | Data Analyst.
+I completed my Master's in Data Science at San Francisco State University. I completed my Bachelor's from Gujarat Technological University. My passion lies in pursuing a career as a Data Scientist | Data Analyst.
 
 
 ## Expertise
@@ -27,6 +27,7 @@ I am pursuing Master's in Data Science at San Francisco State University. I comp
 
 ## Projects
 
+* [Earthquake Forecasting](https://github.com/vaikunthd/Earthquake-Forecasting)
 * [Walmart Sales Forecast](https://github.com/vaikunthd/Walmart-Sales-Forecast)
 * [Opioid Prescription Analysis using Machine Learning](https://github.com/vaikunthd/Opioid-Prescription-Analysis-using-Machine-Learning)
 * [Prediction of Agricultural N2O Emissions](https://github.com/vaikunthd/Prediction-of-Agricultural-N2O-Emissions)
