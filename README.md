@@ -23,16 +23,22 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/color/100/000000/google-logo.png" alt="Google Certificate" width="100" height="100"/><br>
+      <a href="https://www.coursera.org/account/accomplishments/specialization/3TIOM9ALGVO7" target="_blank">
+        <img src="https://img.icons8.com/color/100/000000/google-logo.png" alt="Google Certificate" width="100" height="100"/>
+      </a><br>
       <b>Google Data Analytics</b>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/100/000000/udemy.png" alt="Udemy Certificate 1" width="100" height="100"/><br>
-      <b>Udemy Course 1</b>
+      <a href="https://www.udemy.com/certificate/UC-86642f64-50da-4b6a-9e92-503c65adc7f8/" target="_blank">
+        <img src="https://img.icons8.com/color/100/000000/udemy.png" alt="Udemy Certificate 1" width="100" height="100"/>
+      </a><br>
+      <b>Machine Learning</b>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/100/000000/udemy.png" alt="Udemy Certificate 2" width="100" height="100"/><br>
-      <b>Udemy Course 2</b>
+      <a href="https://www.udemy.com/certificate/UC-e55b7465-f323-4543-bb4d-0fb6f827fcfd/" target="_blank">
+        <img src="https://img.icons8.com/color/100/000000/udemy.png" alt="Udemy Certificate 2" width="100" height="100"/>
+      </a><br>
+      <b>Python Programming</b>
     </td>
   </tr>
 </table>
@@ -90,9 +96,20 @@
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaikunth-desai/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vdclassifier@gmail.com)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/vudesai#6786)
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaikunth-desai/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.vaikunthdesai.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:vdclassifier@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://discordapp.com/users/vaikunthdesai_99331" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
 ---
 
