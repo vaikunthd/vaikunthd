@@ -74,15 +74,15 @@
       AWS
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/?size=50&id=VLKafOkk3sBX&format=png" alt "Azure Icon "width "50 "height "50 "/><br> 
-	  Azure 
-	</ td >
-	<td align=center> 
-	  < img src"https://img.icons8.com/?size = 50 & id = WHRLQdbEXQ16 & format = png "alt =" GCP Icon "width =" 50 "height =" 50 "/><br> 
-	  GCP 
-	</ td >
-   </ tr >
-</ table >
+      <img src="https://img.icons8.com/?size=50&id=VLKafOkk3sBX&format=png" alt="Azure Icon" width="50" height "50"/><br> 
+      Azure
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=50&id=WHRLQdbEXQ16&format=png" alt ="GCP Icon "width =" 50 "height =" 50 "/><br> 
+      GCP
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
