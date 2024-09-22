@@ -61,8 +61,6 @@
       <img src="https://img.icons8.com/?size=50&id=13679&format=png" alt="Java Icon" width="50" height="50"/><br>
       Java
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://img.icons8.com/?size=50&id=9Kvi1p1F0tUo&format=png" alt="Tableau Icon" width="50" height="50"/><br>
       Tableau
@@ -76,7 +74,7 @@
       AWS
     </td>
     <td align="center">
-      <img src"https://img.icons8.com/?size=50&id=VLKafOkk3sBX&format=png" alt "Azure Icon "width "50 "height "50 "/><br> 
+      <img src="https://img.icons8.com/?size=50&id=VLKafOkk3sBX&format=png" alt "Azure Icon "width "50 "height "50 "/><br> 
 	  Azure 
 	</ td >
 	<td align=center> 
