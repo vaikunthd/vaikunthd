@@ -1,71 +1,61 @@
-<!--
-**vaikunthd/vaikunthd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Vaikunth Desai
 
-Here are some ideas to get you started:
+## 👨‍💻 Data Scientist | Machine Learning Engineer | Analytics Professional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Hi there, I'm Vaikunth Desai 👋
+👋 Hello! I'm Vaikunth, a passionate Data Scientist with a Master's in Statistical Data Science from San Francisco State University and 3+ years of experience in leveraging data-driven solutions across various industries.
 
-I completed my Master's in Data Science at San Francisco State University. I completed my Bachelor's from Gujarat Technological University. My passion lies in pursuing a career as a Data Scientist | Data Analyst.
+## 🚀 Expertise
 
+- **Machine Learning & AI**: Regression, Classification, NLP, Deep Learning
+- **Data Analysis & Visualization**: Tableau, Power BI, ggplot2, Matplotlib
+- **Programming**: Python, R, SQL, C++, Java
+- **Cloud Computing**: AWS, Azure, GCP
+- **Big Data**: Hadoop, Apache Spark, ETL
+- **Tools**: SAS, RStudio, Git, Databricks, Airflow
 
-## Expertise
+## 🏆 Achievements
 
-* Machine Learning, Regression Analysis, NLP
-* Tableau, Power BI, SAS
-* Python, R, SQL
-* Agile Development
-* AWS, Azure, GCP
+- Graduate Teaching Assistant at SFSU
+- Published research papers in Big Data and CNN-based Covid Detection
 
-## Projects
-
-* [Earthquake Forecasting](https://github.com/vaikunthd/Earthquake-Forecasting)
-* [Walmart Sales Forecast](https://github.com/vaikunthd/Walmart-Sales-Forecast)
-* [Opioid Prescription Analysis using Machine Learning](https://github.com/vaikunthd/Opioid-Prescription-Analysis-using-Machine-Learning)
-* [Prediction of Agricultural N2O Emissions](https://github.com/vaikunthd/Prediction-of-Agricultural-N2O-Emissions)
-* [IOT based Accident Prone Device](https://github.com/vaikunthd/IOT-based-Accident-Prone-Device)
-* [Breast Cancer Detection](https://github.com/vaikunthd/Breast-Cancer-Detection)
-
-
-
-## :rocket: Programming Languages and Tools
-
-|<img align="center" alt="C++ Icon" src="https://img.icons8.com/?size=50&id=TpULddJc4gTh&format=png"/>|<img align="center" alt="R Icon" src="https://img.icons8.com/?size=50&id=CLvQeiwFpit4&format=png"/>|<img align="center" alt="Python Icon" src="https://img.icons8.com/dusk/50/000000/python.png"/>|<img align="center" alt="SQL Icon" src="https://img.icons8.com/?size=50&id=UFF3hmipmJ2V&format=png"/>|<img align="center" alt="Java Icon" src="https://img.icons8.com/dusk/50/000000/java-coffee-cup-logo.png"/>|<img align="center" alt="Tableau Icon" src="https://img.icons8.com/?size=50&id=9Kvi1p1F0tUo&format=png"/>|<img align="center" alt="Power BI Icon" src="https://img.icons8.com/?size=50&id=70667&format=png"/>|<img align="center" alt="SAS Icon" src="https://www.sas.com/content/dam/SAS/images/logos/saslogos/sas-logo-0766d1.png" height="50" width="50" />|<img align="center" alt="Agile Development Icon" src="https://img.icons8.com/?size=50&id=1MEnLo2pIW7O&format=png"/>|<img align="center" alt="Android Studio Icon" src="https://img.icons8.com/?size=50&id=EgOU93v1DHjU&format=png"/>|<img align="center" alt="AWS Icon" src="https://img.icons8.com/?size=50&id=33039&format=png"/>|<img align="center" alt="Azure Icon" src="https://img.icons8.com/?size=50&id=VLKafOkk3sBX&format=png"/>|<img align="center" alt="GCP Icon" src="https://img.icons8.com/?size=50&id=WHRLQdbEXQ16&format=png"/>|<img align="center" alt="Oracle SQL Icon" src="https://img.icons8.com/?size=50&id=8ljTDYUEydbJ&format=png"/>|<img align="center" alt="Oracle Icon" src="https://img.icons8.com/?size=50&id=39913&format=png"/>|<img align="center" alt="Hadoop Icon" src="https://img.icons8.com/?size=50&id=69132&format=png"/>
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-
-
-## 📫 Connect with me
-
+## 📜 Certificates
 
 <p align="left">
-<a href="https://www.linkedin.com/in/vaikunth-desai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaikunth-desai/" height="30" width="30" /></a>
-<a href="mailto:vdclassifier@gmail.com"><img align="center" alt="Vaikunth Desai's Gmail" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/></a>
-<a href="https://discordapp.com/users/vudesai#6786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/vudesai#6786" height="40" width="40" /></a>
+  <img src="https://img.shields.io/badge/Google-Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Certificate">
+  <img src="https://img.shields.io/badge/Udemy-Course_1-EC5252?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy Certificate 1">
+  <img src="https://img.shields.io/badge/Udemy-Course_2-EC5252?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy Certificate 2">
 </p>
 
+## 💻 Tech Stack
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=black)
+![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![SAS](https://img.shields.io/badge/-SAS-1E90FF?style=flat-square&logo=sas&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 
-  <a href="https://github.com/bobypanchal" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=vaikunthd&title_color=333&text_color=777&show_icons=true" alt="Vaikunth Desai's GitHub Stats" >
-  </a>
-  
-<br><br>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/vaikunthd/vaikunthd?style=flat-square&color=blue&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/vaikunthd?style=flat-square&color=blue&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/vaikunthd?style=flat-square&color=blue&logo=github">
-  </a>
+## 📊 GitHub Stats
 
+![Vaikunth's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaikunthd&show_icons=true&theme=radical)
 
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaikunth-desai/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vdclassifier@gmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/vudesai#6786)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=vaikunthd&color=blue)
