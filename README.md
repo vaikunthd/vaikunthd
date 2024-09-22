@@ -21,70 +21,36 @@
 ## 📜 Certificates
 
 <p align="center">
-  <img src="https://img.icons8.com/color/100/000000/google-logo.png" alt="Google Certificate" width="100" height="100"/><br>
-  <b>Google Data Analytics</b>
+  <img src="https://img.icons8.com/color/100/000000/google-logo.png" alt="Google Certificate" width="100" height="100"/>
+  <img src="https://img.icons8.com/color/100/000000/udemy.png" alt="Udemy Certificate 1" width="100" height="100"/>
+  <img src="https://img.icons8.com/color/100/000000/udemy.png" alt="Udemy Certificate 2" width="100" height="100"/>
 </p>
-
 <p align="center">
-  <img src="https://img.icons8.com/color/100/000000/udemy.png" alt="Udemy Certificate 1" width="100" height="100"/><br>
-  <b>Udemy Course 1</b>
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/color/100/000000/udemy.png" alt="Udemy Certificate 2" width="100" height="100"/><br>
-  <b>Udemy Course 2</b>
+  <b>Google Data Analytics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Udemy Course 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Udemy Course 2</b>
 </p>
 
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=50&id=13441&format=png" alt="Python Icon" width="50" height="50"/><br>
-  Python
+  <img src="https://img.icons8.com/?size=50&id=13441&format=png" alt="Python Icon" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=50&id=CLvQeiwFpit4&format=png" alt="R Icon" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=50&id=13406&format=png" alt="SQL Icon" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=50&id=40669&format=png" alt="C++ Icon" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=50&id=13679&format=png" alt="Java Icon" width="50" height="50"/>
+</p>
+<p align="center">
+  Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java
 </p>
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=50&id=CLvQeiwFpit4&format=png" alt="R Icon" width="50" height="50"/><br>
-  R
+  <img src="https://img.icons8.com/?size=50&id=9Kvi1p1F0tUo&format=png" alt="Tableau Icon" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=50&id=3sGOUDo9nJ4k&format=png" alt="Power BI Icon" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=50&id=33039&format=png" alt="AWS Icon" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=50&id=VLKafOkk3sBX&format=png" alt="Azure Icon" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=50&id=WHRLQdbEXQ16&format=png" alt="GCP Icon" width="50" height="50"/>
 </p>
-
 <p align="center">
-  <img src="https://img.icons8.com/?size=50&id=13406&format=png" alt="SQL Icon" width="50" height="50"/><br>
-  SQL
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/?size=50&id=40669&format=png" alt="C++ Icon" width="50" height="50"/><br>
-  C++
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/?size=50&id=13679&format=png" alt="Java Icon" width="50" height="50"/><br>
-  Java
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/?size=50&id=9Kvi1p1F0tUo&format=png" alt="Tableau Icon" width="50" height="50"/><br>
-  Tableau
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/?size=50&id=3sGOUDo9nJ4k&format=png" alt="Power BI Icon" width="50" height="50"/><br>
-  Power BI
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/?size=50&id=33039&format=png" alt="AWS Icon" width="50" height="50"/><br>
-  AWS
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/?size=50&id=VLKafOkk3sBX&format=png" alt="Azure Icon" width="50" height="50"/><br>
-  Azure
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/?size=50&id=WHRLQdbEXQ16&format=png" alt="GCP Icon" width="50" height="50"/><br>
-  GCP
+  Tableau&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Power BI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AWS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azure&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GCP
 </p>
 
 ## 📊 GitHub Stats
