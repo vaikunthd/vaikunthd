@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Data Scientist | Machine Learning Engineer | Analytics Professional
 
-👋 Hello! I'm Vaikunth, a passionate Data Scientist with a Master's in Statistical Data Science from San Francisco State University and 3+ years of experience in leveraging data-driven solutions across various industries.
+👋 Hello! I'm Vaikunth, a passionate Data Scientist with a Master's in Statistical Data Science from San Francisco State University and 2+ years of experience in leveraging data-driven solutions across various industries.
 
 ## 🚀 Expertise
 
